@@ -1,0 +1,3 @@
+/workspaces/design-patterns/concepts/build/CMakeFiles/concepts_app.dir
+/workspaces/design-patterns/concepts/build/CMakeFiles/edit_cache.dir
+/workspaces/design-patterns/concepts/build/CMakeFiles/rebuild_cache.dir
