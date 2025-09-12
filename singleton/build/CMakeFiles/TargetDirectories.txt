@@ -1,0 +1,3 @@
+/workspaces/design-patterns/singleton/build/CMakeFiles/cache_app.dir
+/workspaces/design-patterns/singleton/build/CMakeFiles/edit_cache.dir
+/workspaces/design-patterns/singleton/build/CMakeFiles/rebuild_cache.dir
