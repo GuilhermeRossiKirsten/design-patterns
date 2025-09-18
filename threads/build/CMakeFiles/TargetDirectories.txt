@@ -1,0 +1,3 @@
+/workspaces/design-patterns/threads/build/CMakeFiles/MeshNavigation.dir
+/workspaces/design-patterns/threads/build/CMakeFiles/edit_cache.dir
+/workspaces/design-patterns/threads/build/CMakeFiles/rebuild_cache.dir

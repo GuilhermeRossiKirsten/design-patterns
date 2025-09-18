@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MeshNavigation.dir/main.cpp.o -o MeshNavigation  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so -lglfw -ldl -lpthread -lX11 -lXrandr -lXi -lXxf86vm -lXcursor 

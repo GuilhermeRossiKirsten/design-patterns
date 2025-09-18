@@ -1,0 +1,3 @@
+/workspaces/design-patterns/monitor-cpp/build/CMakeFiles/monitor_app.dir
+/workspaces/design-patterns/monitor-cpp/build/CMakeFiles/edit_cache.dir
+/workspaces/design-patterns/monitor-cpp/build/CMakeFiles/rebuild_cache.dir
